@@ -24,7 +24,7 @@ export default function Home({ allPostsData }) {
       <section className={utilStyles.headingMd}>
         <h2>Web developer</h2>
         <p>
-          I'm a Iranian based web developer, with UI/UX background, passionate
+          I'm an Iranian based web developer, with UI/UX background, passionate
           about programming and tech talks!
           <br /> Over the years I worked on developing websites to help
           businesses and refining UI/UX.
